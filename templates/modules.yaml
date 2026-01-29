@@ -1,21 +1,27 @@
 - url: https://github.com/moroshka-dev/moroshka-xcp
   name: Xcp
-  version: 1.0.0
+  version: 1.0.1
 - url: https://github.com/moroshka-dev/moroshka-protect
   name: Protect
-  version: 1.0.0
+  version: 1.1.0
 - url: https://github.com/moroshka-dev/moroshka-collections
   name: Collections
-  version: 1.0.0
+  version: 1.1.1
 - url: https://github.com/moroshka-dev/moroshka-type-analyzer
   name: Type Analyzer
-  version: 1.0.0
+  version: 1.0.1
 - url: https://github.com/moroshka-dev/moroshka-factory
   name: Factory
-  version: 1.0.0
+  version: 1.1.1
 - url: https://github.com/moroshka-dev/moroshka-object-pool
   name: Object Pool
-  version: 1.0.0
+  version: 1.1.1
 - url: https://github.com/moroshka-dev/moroshka-instance-provider
   name: Instance Provider
+  version: 1.1.1
+- url: https://github.com/moroshka-dev/moroshka-di
+  name: DI
   version: 1.0.0
+- url: https://github.com/moroshka-dev/moroshka-bootstrap.git
+  name: Bootstrap
+  version: 1.0.1
